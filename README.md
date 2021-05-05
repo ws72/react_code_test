@@ -1,4 +1,4 @@
-# IAG coding test
+# React coding test
 
 ## Development server
 
